@@ -1,2 +1,2 @@
-a, b, c = eval(input())
-print(a + b * 2 + c * 3)
+a, b= eval(input())
+print(max(a, b))
