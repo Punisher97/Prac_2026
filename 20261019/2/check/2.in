@@ -1,0 +1,5 @@
+:answer 6*7
+answer
+:root sqrt(81)
+root
+quit "{} {}"

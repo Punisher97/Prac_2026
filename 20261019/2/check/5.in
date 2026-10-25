@@ -1,0 +1,6 @@
+:weighted a b c d a+2*b+3*c+4*d
+weighted 1 2 3 4
+weighted -1 0 1 2
+:largest a b c d max(a,b,c,d)
+largest 5 3 8 1
+quit "{} {}"

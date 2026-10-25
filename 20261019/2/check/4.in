@@ -1,0 +1,7 @@
+:power base degree base**degree
+power 3 4
+:distance x y hypot(x,y)
+distance 3 4
+:join left right left+right
+join "аб" "вг"
+quit "{} {}"

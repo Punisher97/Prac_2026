@@ -1,0 +1,7 @@
+:frame text "["+text+"]"
+frame "две строки с пробелами"
+frame ""
+:double x x*2
+double 2.5
+double [1,2]
+quit "{}:{}"
