@@ -1,0 +1,6 @@
+a, b = Omnibus(), Omnibus()
+a.y = b.y = None
+print(b.y)
+del b.y
+del b.y
+print(b.y)
